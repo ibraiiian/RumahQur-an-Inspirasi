@@ -4,7 +4,7 @@ const facilities = [
   {
     title: "Ruang Belajar",
     description: "Ruangan nyaman dengan fasilitas modern untuk kegiatan belajar mengajar Al-Quran dan ilmu agama",
-    image: "/public/images/study-room.jpg",
+    image: "https://al-maahiraiibs.sch.id/assets/portal/news/20230929_032113_468060.jpg",
     features: ["Smart Board", "AC", "Meja & Kursi Ergonomis", "Audio System"]
   },
   {
